@@ -8,3 +8,4 @@ Script | Function | Primary Libraries
 `feelingLucky.py` | Returns the url for the Feeling Lucky link of a Google Search | mechanicalsoup
 `getLinksOnPage.py` | Returns all hyperlinks on a given webpage | BeautifulSoup
 `zen.py` | Prints the Zen of Python centered to the terminal | this, codecs, shutil
+`nba.py` | queries stats.nba.com and parses json response for the season the LA Lakers had the most wins | json, requests, operator
